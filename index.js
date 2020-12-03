@@ -6,7 +6,7 @@ var x=document.createElement('div');
 
 var content=`<div style="margin:3%">
 <div class="col-sm-4 ">
-<div class="card" style="width:350px">
+<div class="card" style="width:300px">
 <img class="card-img-top" src="xxx" alt="Card image">
 <div class="card-body">
   <h4 class="card-title">yyy</h4>
