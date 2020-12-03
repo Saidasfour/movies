@@ -4,7 +4,7 @@ fetch('https://trainingsaid.herokuapp.com/')
     for(let i=0;i<json.length;i++){
 var x=document.createElement('div');
 var content=`<div class="col-lg-4 ">
-<div class="card" style="width:435px">
+<div class="card" style="width:400px">
 <img class="card-img-top" src="xxx" alt="Card image">
 <div class="card-body">
   <h4 class="card-title">yyy</h4>
