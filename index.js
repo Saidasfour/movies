@@ -11,7 +11,7 @@ var content=`<div style="margin:3%">
 <div class="card-body">
   <h4 class="card-title">yyy</h4>
   <a href="#" class="btn btn-primary">Watch movie</a>
-  <a href="#" class="btn btn-dark" style="margin-left:20%">Download movie</a>
+  <a href="#" class="btn btn-dark" style="margin-left:15%">Download movie</a>
 </div>
 </div>
 </div>
